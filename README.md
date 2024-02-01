@@ -1,6 +1,6 @@
 ![MasterHead](https://www.careerguide.com/career/wp-content/uploads/2020/03/giphy-7.gif)
 <h1 align="center">👋, I'm Danica Filipović</h1>
-<h3 align="center">Aspiring Junior Software Developer from Serbia!</h3></br>
+<h3 align="center">Aspiring Software Developer from Serbia!</h3></br>
 
 - 🔭 I’m currently working on **REST APIs with .NET and ASP.NET MVC projects**
 
