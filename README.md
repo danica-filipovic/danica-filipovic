@@ -1,7 +1,7 @@
 ### Hi there, I'm Danica! 👋
 
 #### 👩‍💻 Who am I?
-I am a Junior QA Automation Engineer passionate about building robust, scalable automated test suites and ensuring high software quality from code to release.
+I am a Junior QA Automation Engineer passionate about building robust, scalable automated E2E test suites with TypeScript and Playwright, focused on clean POM architecture, reliable CI/CD, and ensuring high software quality from code to release.
 
 #### 💻 What am I currently working on?
 * Developing end-to-end test automation frameworks from scratch using **TypeScript** and **Playwright**.
